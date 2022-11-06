@@ -909,7 +909,7 @@
         i = (o("4de4"), o("c975"), o("b64b"), o("d3b7"), o("ac1f"), o("25f0"), o("5319"), "https://github.com/ACL4SSR/ACL4SSR"),
         r = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini",
         a = "https://github.com/tindy2013/subconverter/releases",
-        s = "https://sub.id9.cc/sub?",
+        s = "https://pub-api-1.bianyuan.xyz/sub?",
         c = "clash&new_name=true",
         u = "https://suo.yt/short",
         f = "https://api.wcc.best/config/upload",
@@ -940,14 +940,14 @@
                             Surge2: "surge&ver=2"
                         },
                         customBackend: {
-                            "sub.id9.cc(品云提供-稳定)": "https://sub.id9.cc/sub?",
+                            "bianyuan.xyz(边缘提供)": "https://pub-api-1.bianyuan.xyz/sub?",
                             "sub.xeton.dev(subconverter作者提供-稳定)": "https://sub.xeton.dev/sub?",
                             "api.dler.io(lhie1提供-稳定)": "https://api.dler.io/sub?",
                             "sub.maoxiongnet.com(猫熊提供-稳定)": "https://sub.maoxiongnet.com/sub?",
                             "localhost:25500 本地版": "http://localhost:25500/sub?"
                         },
                         backendOptions: [{
-                            value: "https://sub.id9.cc/sub?"
+                            value: "https://pub-api-1.bianyuan.xyz/sub?"
                         },
                         {
                             value: "https://sub.xeton.dev/sub?"
